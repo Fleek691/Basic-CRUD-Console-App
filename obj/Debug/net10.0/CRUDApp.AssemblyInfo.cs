@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3858db571b2a0d80aa4cd4c7456d9eaca29eff7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
